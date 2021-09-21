@@ -36,4 +36,5 @@ Adam Secord, Ajia Holiday, Brooke Thorson, Duncan Herington, Kendra Staver, & Re
 
 ## Link 
 
-https://asecord92.github.io/brew-finder/
+https://ortizrg.github.io/brew-finder/ (deployed site)
+https://github.com/OrtizRG/brew-finder (github repository)
